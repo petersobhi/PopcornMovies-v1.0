@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Popcorn Movies</string>
+
+    <string name="settings">Settings</string>
+
+    <string name="pref_sortByTitle">Sort By</string>
+    <string name="pref_sortByKey">sort_by</string>
+    <string name="pref_sortByDefault">popular</string>
+    <string-array name="pref_sortByEntries">
+        <item>Most Popular</item>
+        <item>Top Rated</item>
+        <item>My Favourites</item>
+    </string-array>
+    <string-array name="pref_sortByValues">
+        <item>popular</item>
+        <item>top_rated</item>
+        <item>favourite</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="fragment_main_mobile">view1</string>
+    <string name="fragment_main_tablet">view2</string>
+
+</resources>
